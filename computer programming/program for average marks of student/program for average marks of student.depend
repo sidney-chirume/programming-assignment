@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677394632 source:c:\computer programming\program for average marks of student\main.c
+	<stdio.h>
+	<stdlib.h>
+
